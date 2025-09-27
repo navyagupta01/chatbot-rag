@@ -1,0 +1,37 @@
+# Demo Queries for Agentic RAG PDF Chatbot
+# Copy and paste these into the chat interface to test different capabilities
+
+## Summary Queries
+Summarize the main findings and conclusions of this document
+Provide an overview of the key topics covered in the research
+What are the main points discussed in this paper?
+
+## Search Queries
+What methodology was used in this study?
+Who are the authors of this research?
+What data sources were utilized?
+When was this study conducted?
+Where did the research take place?
+
+## Comparison Queries
+Compare the different approaches mentioned in the document
+What are the similarities and differences between method A and method B?
+How do the results compare across different conditions?
+
+## Analysis Queries
+Analyze the implications of the research findings
+What are the strengths and weaknesses of the proposed approach?
+Explain the significance of the results
+What are the limitations of this study?
+
+## Complex Multi-step Queries
+Analyze the methodology, summarize the findings, and discuss the implications
+Compare the proposed approach with existing methods and evaluate its effectiveness
+What are the key contributions of this work and how do they advance the field?
+
+## Domain-specific Examples (adapt based on your documents)
+What statistical methods were used for data analysis?
+Describe the experimental setup and procedures
+What are the ethical considerations discussed?
+How was the sample size determined?
+What future research directions are suggested?

@@ -1,0 +1,46 @@
+# Hide sensitive and large files
+*.json
+downloaded_excels/
+*.xlsx
+*.pptx
+*.env
+*.key
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Data directories
+data/uploads/*
+data/embeddings/*
+data/indexes/*
+!data/uploads/.gitkeep
+!data/embeddings/.gitkeep
+!data/indexes/.gitkeep
+*.json
+downloaded_excels/
+*.xlsx
+*.pptx
+*.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

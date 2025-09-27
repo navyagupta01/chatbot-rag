@@ -1,0 +1,11 @@
+requests
+pandas
+streamlit==1.30.0
+PyPDF2==3.0.1
+faiss-cpu==1.12.0
+psycopg2
+sentence-transformers==2.2.2
+requests==2.31.0
+numpy==1.24.3
+python-dotenv==1.0.0
+re
